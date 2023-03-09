@@ -1,0 +1,17 @@
+{
+  "name": "learnsocketio",
+  "version": "1.0.0",
+  "description": "this is my socket io application",
+  "main": "index.js",
+  "scripts": {
+    "start":"node server/server.js"
+  },
+  "engines":{
+    "node":"^18.14.2"
+  },
+  "author": "shreyanshg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
